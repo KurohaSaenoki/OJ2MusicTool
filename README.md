@@ -22,5 +22,4 @@ Does the Hex Editing for you so it's easier to create music packs.
 
 ## VIDEO TUTORIAL
 
-[![Click here to watch the tutorial](https://img.youtube.com/vi/bWf3RHArecI/0.jpg)](https://youtu.be/bWf3RHArecI)
-[![SC2 Video](UMU/GitHubAssets/YouTube.gif)](https://www.youtube.com/watch?v=ZZrEZMi6X5o&list=PLQyrynUmnHDsB8CHILpZ_9AYXODkaNBQE)
+[![Click here to watch the tutorial](https://img.youtube.com/vi/w52rk3SUrn4/0.jpg)](https://youtu.be/w52rk3SUrn4)
